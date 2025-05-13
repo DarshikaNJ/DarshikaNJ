@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![DarshikaNJ's GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=DarshikaNJ&show_icons=true&theme=radical)
-(https://github-readme-stats.vercel.app/api?username=DarshikaNJ)]
-(https://github.com/DarshikaNJ/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=DarshikaNJ&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api?username=DarshikaNJ)](https://github.com/DarshikaNJ/github-readme-stats)
