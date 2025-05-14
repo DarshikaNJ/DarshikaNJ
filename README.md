@@ -1,18 +1,16 @@
-## Hi there 👋
+<h2 align="left">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I’m Darshika.
+</h2>
 
-<!--
-**DarshikaNJ/DarshikaNJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me:  
+- 🌱 A passionate Self-taught Business System and data Analyst
+- 👯 I'm interested in UX/UI and software development, front-end development and Data Analytics.
+- 💬 I’m currently learning `Java and JS`.
+- 🏡'Lives in **New Zealand**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![DarshikaNJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshikaNJ&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api?username=DarshikaNJ)](https://github.com/DarshikaNJ/github-readme-stats)
+[![DarshikaNJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshikaNJ&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api?username=DarshikaNJ)]
+(https://github.com/DarshikaNJ/github-readme-stats)
