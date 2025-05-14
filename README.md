@@ -24,8 +24,7 @@
 
 ### :student: My Github stats :
 <div align="center" >
-[![DarshikaNJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshikaNJ&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api?username=DarshikaNJ)]
-(https://github.com/DarshikaNJ/github-readme-stats)
+[![DarshikaNJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshikaNJ&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api?username=DarshikaNJ)](https://github.com/DarshikaNJ/github-readme-stats)
 <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshikaNJ&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" >
