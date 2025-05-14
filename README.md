@@ -5,13 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
 ### 👩‍💻 About Me:  
-- 🌱 I am a Business System and data Analyst with over a decade of experience, including spanning IT managerial roles,   
-  		system implementation, system analysis, QA, data analysis, and insight generation. I am currently pursuing my  
-  		master’s degree in business analytics. Being a business system analyst, I have designed mission-critical business 
-  		solutions for large-scale banking and finance. I  have experience working with various database platforms, including  
-  		MS SQL Server, MySQL, MongoDB, Access, and Amazon RDS. My expertise is primarily in Microsoft SQL Server, disaster 
-  		recovery, high availability, performance tuning, capacity planning, SSIS, SSRS, database design, architecture, and
-  		data modeling.
+- 🌱 I am a Business Systems and Data Analyst with over a decade of experience.
 - 👯 I'm interested in UX/UI, software development, front-end development, and Data Analytics.
 - 💬 I’m currently learning `Java and JS`.
 - 🏡'Lives in **New Zealand**
@@ -55,6 +49,7 @@
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
   ![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?style=flat&logo=android-studio)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Sqllite](https://img.shields.io/badge/-SQLlite-333333?style=flat&logo=sqllite)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Project Management](https://img.shields.io/badge/-Project_Management-333333?style=flat&logo=trello)
@@ -65,10 +60,10 @@
   ![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=.net)
 
 ### :student: My Github stats :
-<div align="center" >
+ <!--<div align="center" >
   <a href="https://github.com/DarshikaNJ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshikaNJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <!-- <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshikaNJ&layout=compact&langs_count=7&theme=dark"/> -->
+<img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshikaNJ&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 <div align="center" >
   <a href="https://github.com/DarshikaNJ">
