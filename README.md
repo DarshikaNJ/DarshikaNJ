@@ -23,11 +23,9 @@
 <a href="https://www.linkedin.com/in/darshika-niroshan-00662625b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 
 ### :student: My Github stats :
-<div align="center" >
 [![DarshikaNJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshikaNJ&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api?username=DarshikaNJ)]
 (https://github.com/DarshikaNJ/github-readme-stats)
 <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshikaNJ&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div align="center" >
   <a href="https://github.com/DarshikaNJ">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshikaNJ&theme=dark"/>
